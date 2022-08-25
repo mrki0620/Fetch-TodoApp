@@ -39,7 +39,7 @@
   ],
   "theme_color": "#FFFFFF",
   "background_color": "#FFFFFF",
-  "start_url": "/PWA-TodoApp/",
+  "start_url": "/Fetch-TodoApp/",
   "display": "standalone",
   "orientation": "portrait"
 }
